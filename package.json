@@ -37,7 +37,7 @@
     "enzyme-to-json": "3.3.4",
     "eslint": "4.19.1",
     "jest": "22.4.4",
-    "react": "^16.3.2",
+    "react": "^18.0.10",
     "react-dom": "16.3.3",
     "react-native": "^0.55.3"
   },
